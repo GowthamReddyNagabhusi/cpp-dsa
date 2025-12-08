@@ -1,1 +1,1 @@
-﻿Shortest distances: 0 2 3 6 1 5 
+﻿Shortest Path: 2

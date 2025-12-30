@@ -1,1 +1,2 @@
-﻿Shortest Path: 2
+﻿Memoization Answer: 8
+Optimized DP Answer: 8

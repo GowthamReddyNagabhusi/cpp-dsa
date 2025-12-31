@@ -1,6 +1,5 @@
 // Problem : Ninja Training
-// GFG : https://practice.geeksforgeeks.org/problems/ninja-training/1
-
+// GFG : https://www.naukri.com/code360/problems/ninja-s-training_3621003
 #include <bits/stdc++.h>
 using namespace std;
 

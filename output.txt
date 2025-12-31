@@ -1,2 +1,3 @@
-﻿Memoization Answer: 8
-Optimized DP Answer: 8
+﻿Memoization Answer: 210
+Tabulation Answer: 210
+Space Optimized Answer: 210

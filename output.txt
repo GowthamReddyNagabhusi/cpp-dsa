@@ -1,3 +1,1 @@
-﻿Memoization Answer: 28
-Tabulation Answer: 28
-Space Optimized Answer: 28
+﻿Minimum Path Sum: 7

@@ -1,1 +1,2 @@
-﻿Minimum Path Sum: 7
+﻿Memoization Answer: 24
+Space Optimized Answer: 24
